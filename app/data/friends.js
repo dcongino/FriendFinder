@@ -19,7 +19,7 @@ var friends = [
     {
         id: "2",
         name: "Mickey",
-        photo: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ixxiyourworld.com%2Fen%2Fproducts%2Fixxi-images%2Fdisney-mickey-mouse-3%2F&psig=AOvVaw3mn2YFlMLB3XhchymuAECS&ust=1589998711634000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLD5wPXEwOkCFQAAAAAdAAAAABAM",
+        photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQAY5hn0TrIZMzzFmcxOCz_QB68Yvl0DiLKhoT2eziCb1vEkou&usqp=CAU",
         scores: [
             5,
             4,
@@ -34,3 +34,5 @@ var friends = [
         ] 
     }
 ];
+
+module.exports = friends; 
